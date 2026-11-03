@@ -1,0 +1,9 @@
+jinja2==3.1.6
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.0
+statsmodels==0.14.6
+scikit-learn==1.9.0
+matplotlib==3.11.2
+# built from source with the SYCL backend (Intel GPU), see README
+llama-cpp-python==0.3.33
