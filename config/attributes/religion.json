@@ -1,0 +1,90 @@
+[
+    {
+        "id": "orthodox_male_giorgos",
+        "noun_nom": "Ορθόδοξος Χριστιανός",
+        "noun_acc": "Ορθόδοξο Χριστιανό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "orthodox_female_eleni",
+        "noun_nom": "Ορθόδοξη Χριστιανή",
+        "noun_acc": "Ορθόδοξη Χριστιανή",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "muslim_male_mohammed",
+        "noun_nom": "Μουσουλμάνος",
+        "noun_acc": "Μουσουλμάνο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "muslim_female_zeine",
+        "noun_nom": "Μουσουλμάνη",
+        "noun_acc": "Μουσουλμάνη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "catholic_male_giannis",
+        "noun_nom": "Καθολικός",
+        "noun_acc": "Καθολικό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "catholic_female_maria",
+        "noun_nom": "Καθολική",
+        "noun_acc": "Καθολική",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "atheist_male_ali",
+        "noun_nom": "Άθεος",
+        "noun_acc": "Άθεο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "atheist_female_emine",
+        "noun_nom": "Άθεη",
+        "noun_acc": "Άθεη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "id": "male_giorgos",
+        "noun_nom": "άνδρας",
+        "noun_acc": "άνδρα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "male_giannis",
+        "noun_nom": "άνδρας",
+        "noun_acc": "άνδρα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "male_ali",
+        "noun_nom": "άνδρας",
+        "noun_acc": "άνδρα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "male_mohammed",
+        "noun_nom": "άνδρας",
+        "noun_acc": "άνδρα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "female_maria",
+        "noun_nom": "γυναίκα",
+        "noun_acc": "γυναίκα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "female_eleni",
+        "noun_nom": "γυναίκα",
+        "noun_acc": "γυναίκα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "female_emine",
+        "noun_nom": "γυναίκα",
+        "noun_acc": "γυναίκα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    },
+    {
+        "id": "female_zeine",
+        "noun_nom": "γυναίκα",
+        "noun_acc": "γυναίκα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "non_binary_giorgos",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Γιώργος",
+        "article_firstname": "το",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "non_binary_giannis",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Γιάννης",
+        "article_firstname": "το",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "non_binary_ali",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Αλί",
+        "article_firstname": "το",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "non_binary_mohammed",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "το",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "non_binary_maria",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Μαρία",
+        "article_firstname": "το",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "non_binary_eleni",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Ελένη",
+        "article_firstname": "το",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "non_binary_zeine",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "το",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "non_binary_emine",
+        "noun_nom": "μη δυαδικό άτομο",
+        "noun_acc": "μη δυαδικό άτομο",
+        "gender": "non_binary",
+        "article_nom": "το",
+        "article_acc": "το",
+        "firstname": "Εμινέ",
+        "article_firstname": "το",
+        "firstname_acc": "Εμινέ"
+    }
+]

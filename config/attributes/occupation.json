@@ -1,0 +1,200 @@
+[
+    {
+        "id": "engineer_male_giorgos",
+        "noun_nom": "μηχανικός",
+        "noun_acc": "μηχανικό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "engineer_female_maria",
+        "noun_nom": "μηχανικός",
+        "noun_acc": "μηχανικός",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "doctor_male_ali",
+        "noun_nom": "ιατρός",
+        "noun_acc": "ιατρό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "doctor_female_emine",
+        "noun_nom": "ιατρός",
+        "noun_acc": "ιατρός",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    },
+    {
+        "id": "nurse_male_giannis",
+        "noun_nom": "νοσηλευτής",
+        "noun_acc": "νοσηλευτή",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "nurse_female_eleni",
+        "noun_nom": "νοσηλεύτρια",
+        "noun_acc": "νοσηλεύτρια",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "accountant_male_mohammed",
+        "noun_nom": "λογιστής",
+        "noun_acc": "λογιστή",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "accountant_female_zeine",
+        "noun_nom": "λογίστρια",
+        "noun_acc": "λογίστρια",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "programmer_male_giorgos",
+        "noun_nom": "προγραμματιστής",
+        "noun_acc": "προγραμματιστή",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "programmer_female_maria",
+        "noun_nom": "προγραμματίστρια",
+        "noun_acc": "προγραμματίστρια",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "teacher_male_giannis",
+        "noun_nom": "δάσκαλος",
+        "noun_acc": "δάσκαλο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "teacher_female_eleni",
+        "noun_nom": "δασκάλα",
+        "noun_acc": "δασκάλα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "pharmasist_male_mohammed",
+        "noun_nom": "φαρμακοποιός",
+        "noun_acc": "φαρμακοποιό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "pharmasist_female_zeine",
+        "noun_nom": "φαρμακοποιός",
+        "noun_acc": "φαρμακοποιός",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "waiter_male_giannis",
+        "noun_nom": "σερβιτόρος",
+        "noun_acc": "σερβιτόρο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "waiter_female_eleni",
+        "noun_nom": "σερβιτόρα",
+        "noun_acc": "σερβιτόρα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "driver_male_ali",
+        "noun_nom": "δικηγόρος",
+        "noun_acc": "δικηγόρο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "driver_female_emine",
+        "noun_nom": "δικηγόρος",
+        "noun_acc": "δικηγόρο",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": "roma_male_giorgos",
+        "noun_nom": "Ρομά",
+        "noun_acc": "Ρομά",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "roma_female_maria",
+        "noun_nom": "Ρομά",
+        "noun_acc": "Ρομά",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "gr_male_giannis",
+        "noun_nom": "Έλληνας",
+        "noun_acc": "Έλληνα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "gr_female_eleni",
+        "noun_nom": "Ελληνίδα",
+        "noun_acc": "Ελληνίδα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "alb_male_giannis",
+        "noun_nom": "Αλβανός",
+        "noun_acc": "Αλβανό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "alb_female_maria",
+        "noun_nom": "Αλβανίδα",
+        "noun_acc": "Αλβανίδα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "syr_male_ali",
+        "noun_nom": "Σύρος",
+        "noun_acc": "Σύρο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "syr_female_zeine",
+        "noun_nom": "Σύρια",
+        "noun_acc": "Σύρια",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "african_male_giorgos",
+        "noun_nom": "Αφρικανός",
+        "noun_acc": "Αφρικανό",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "african_female_maria",
+        "noun_nom": "Αφρικανή",
+        "noun_acc": "Αφρικανή",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "turkish_male_mohammed",
+        "noun_nom": "Τούρκος",
+        "noun_acc": "Τούρκο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "turkish_female_emine",
+        "noun_nom": "Τουρκάλα",
+        "noun_acc": "Τουρκάλα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    }
+]

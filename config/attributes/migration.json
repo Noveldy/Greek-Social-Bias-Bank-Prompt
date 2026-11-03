@@ -1,0 +1,90 @@
+[
+    {
+        "id": "refugee_male_ali",
+        "noun_nom": "πρόσφυγας",
+        "noun_acc": "προσφύγα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "refugee_male_mohammed",
+        "noun_nom": "πρόσφυγας",
+        "noun_acc": "προσφύγα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "refugee_female_emine",
+        "noun_nom": "πρόσφυγας",
+        "noun_acc": "προσφύγα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    },
+    {
+        "id": "refugee_female_zeine",
+        "noun_nom": "πρόσφυγας",
+        "noun_acc": "προσφύγα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "immigrant_male_ali",
+        "noun_nom": "μετανάστης",
+        "noun_acc": "μετανάστη",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "immigrant_male_mohammed",
+        "noun_nom": "μετανάστης",
+        "noun_acc": "μετανάστη",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "immigrant_female_emine",
+        "noun_nom": "μετανάστης",
+        "noun_acc": "μετανάστη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    },
+    {
+        "id": "immigrant_female_zeine",
+        "noun_nom": "μετανάστης",
+        "noun_acc": "μετανάστη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    }
+]

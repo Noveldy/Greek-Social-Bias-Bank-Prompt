@@ -1,0 +1,178 @@
+[
+    {
+        "id": "young_male _giorgos",
+        "noun_nom": "νεαρός ενήλικας",
+        "noun_acc": "νεαρό ενήλικα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "young_male _giannis",
+        "noun_nom": "νεαρός ενήλικας",
+        "noun_acc": "νεαρό ενήλικα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "young_male _ali",
+        "noun_nom": "νεαρός ενήλικας",
+        "noun_acc": "νεαρό ενήλικα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "young_male _mohammed",
+        "noun_nom": "νεαρός ενήλικας",
+        "noun_acc": "νεαρό ενήλικα",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "young_female _maria",
+        "noun_nom": "νεαρή ενήλικας",
+        "noun_acc": "νεαρή ενήλικα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "young_female _eleni",
+        "noun_nom": "νεαρή ενήλικας",
+        "noun_acc": "νεαρή ενήλικα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "young_female_emine",
+        "noun_nom": "νεαρή ενήλικας",
+        "noun_acc": "νεαρή ενήλικα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    },
+    {
+        "id": "young_female_zeine",
+        "noun_nom": "νεαρή ενήλικας",
+        "noun_acc": "νεαρή ενήλικα",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "elderly_male_giorgos",
+        "noun_nom": "ηλικιωμένος",
+        "noun_acc": "ηλικιωμένο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "elderly_male_giannis",
+        "noun_nom": "ηλικιωμένος",
+        "noun_acc": "ηλικιωμένο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "elderly_male_mohammed",
+        "noun_nom": "ηλικιωμένος",
+        "noun_acc": "ηλικιωμένο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "elderly_male_ali",
+        "noun_nom": "ηλικιωμένος",
+        "noun_acc": "ηλικιωμένο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "elderly_female_maria",
+        "noun_nom": "ηλικιωμένη",
+        "noun_acc": "ηλικιωμένη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "elderly_female_eleni",
+        "noun_nom": "ηλικιωμένη",
+        "noun_acc": "ηλικιωμένη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "elderly_female_emine",
+        "noun_nom": "ηλικιωμένη",
+        "noun_acc": "ηλικιωμένη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    },
+    {
+        "id": "elderly_female_zeine",
+        "noun_nom": "ηλικιωμένη",
+        "noun_acc": "ηλικιωμένη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    }
+]

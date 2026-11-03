@@ -1,0 +1,112 @@
+[
+    {
+        "id": "heterosexual_male_giorgos",
+        "noun_nom": "ετεροφυλόφιλος",
+        "noun_acc": "ετεροφυλόφιλο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιώργος",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιώργο"
+    },
+    {
+        "id": "heterosexual_female_eleni",
+        "noun_nom": "ετεροφυλόφιλη",
+        "noun_acc": "ετεροφυλόφιλη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ελένη",
+        "article_firstname": "η",
+        "firstname_acc": "Ελένη"
+    },
+    {
+        "id": "homosexual_male_mohammed",
+        "noun_nom": "ομοφυλόφιλος",
+        "noun_acc": "ομοφυλόφιλο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "homosexual_female_zeine",
+        "noun_nom": "ομοφυλόφιλη",
+        "noun_acc": "ομοφυλόφιλη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "bisexual_male_mohammed",
+        "noun_nom": "αμφιφυλόφιλος",
+        "noun_acc": "αμφιφυλόφιλο",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Μοχάμεντ",
+        "article_firstname": "ο",
+        "firstname_acc": "Μοχάμεντ"
+    },
+    {
+        "id": "bisexual_female_zeine",
+        "noun_nom": "αμφιφυλόφιλη",
+        "noun_acc": "αμφιφυλόφιλη",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Ζεϊνέ",
+        "article_firstname": "η",
+        "firstname_acc": "Ζεϊνέ"
+    },
+    {
+        "id": "asexual_male_giannis",
+        "noun_nom": "Ασέξουαλ",
+        "noun_acc": "Ασέξουαλ",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Γιάννης",
+        "article_firstname": "ο",
+        "firstname_acc": "Γιάννη"
+    },
+    {
+        "id": "asexual_female_maria",
+        "noun_nom": "Ασέξουαλ",
+        "noun_acc": "Ασέξουαλ",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Μαρία",
+        "article_firstname": "η",
+        "firstname_acc": "Μαρία"
+    },
+    {
+        "id": "pansexual_male_ali",
+        "noun_nom": "Πανσέξουαλ",
+        "noun_acc": "Πανσέξουαλ",
+        "gender": "male",
+        "article_nom": "ο",
+        "article_acc": "τον",
+        "firstname": "Αλί",
+        "article_firstname": "ο",
+        "firstname_acc": "Αλί"
+    },
+    {
+        "id": "pansexual_female_emine",
+        "noun_nom": "Πανσέξουαλ",
+        "noun_acc": "Πανσέξουαλ",
+        "gender": "female",
+        "article_nom": "η",
+        "article_acc": "την",
+        "firstname": "Εμινέ",
+        "article_firstname": "η",
+        "firstname_acc": "Εμινέ"
+    }
+]
