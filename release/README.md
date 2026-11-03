@@ -3,7 +3,7 @@
 A Greek-language benchmark for evaluating social bias in large language models (LLMs), with the answers of three
 locally run, quantized models: Qwen3-4B-Instruct-2507, Llama-Krikri-8B-Instruct and Gemma 4 E2B-it (GGUF Q5_K_M,
 llama.cpp). It accompanies the paper Cross-Linguistic Bias and Algorithmic Fairness in Low-Resource Language LLMs that was submitted on the Results in Engineering journal. The code that generates the prompts, runs the models and
-produces every table of the paper is at https://github.com/Noveldy/Greek-Social-Bias-Bank-Prompt.
+produces every table of the paper is at https://github.com/Noveldy/Greek-Social-Bias-Bank-Prompt (DOI: 10.5281/zenodo.23913030).
 
 ## The benchmark
 
