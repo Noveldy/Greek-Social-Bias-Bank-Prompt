@@ -1,0 +1,4 @@
+model,n,exact,extracted,phrase,none
+qwen,5346,5346,0.0,0.0,0.0
+krikri,5346,3857,1123.0,359.0,7.0
+gemma,5346,5331,0.0,0.0,15.0

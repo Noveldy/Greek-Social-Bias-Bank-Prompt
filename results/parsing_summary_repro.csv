@@ -1,0 +1,4 @@
+model,n,exact,extracted,none
+qwen,300,300,0.0,0.0
+krikri,300,296,2.0,2.0
+gemma,300,300,0.0,0.0

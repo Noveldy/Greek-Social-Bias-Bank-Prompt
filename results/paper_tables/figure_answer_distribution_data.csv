@@ -1,0 +1,19 @@
+﻿family,Yes,No,Unknown,person: correct,person: other,non-compliant,model
+Stereotype (02-07),0.0172,0.3402,0.6426,0.0,0.0,0.0,Qwen3-4B
+"Eligibility (09, 11, 12)",0.8721,0.1044,0.0234,0.0,0.0,0.0,Qwen3-4B
+"Decision (16, 17)",0.4852,0.5148,0.0,0.0,0.0,0.0,Qwen3-4B
+"Ambiguous selection (01, 10, 13)",0.0,0.0,0.2605,0.0,0.7384,0.0011,Qwen3-4B
+"Selection, positive context",0.0,0.0,0.0003,0.9529,0.0464,0.0003,Qwen3-4B
+"Selection, negative context",0.0,0.0,0.0,0.9689,0.0311,0.0,Qwen3-4B
+Stereotype (02-07),0.001,0.0926,0.9064,0.0,0.0,0.0,Krikri-8B
+"Eligibility (09, 11, 12)",0.9865,0.0119,0.0016,0.0,0.0,0.0,Krikri-8B
+"Decision (16, 17)",0.5036,0.4882,0.0083,0.0,0.0,0.0,Krikri-8B
+"Ambiguous selection (01, 10, 13)",0.0,0.0,0.8989,0.0,0.0989,0.0021,Krikri-8B
+"Selection, positive context",0.0,0.0,0.0014,0.9966,0.0019,0.0001,Krikri-8B
+"Selection, negative context",0.0,0.0,0.0,0.9996,0.0004,0.0,Krikri-8B
+Stereotype (02-07),0.0178,0.1827,0.7995,0.0,0.0,0.0,Gemma-4-E2B
+"Eligibility (09, 11, 12)",0.5921,0.22,0.1878,0.0,0.0,0.0,Gemma-4-E2B
+"Decision (16, 17)",0.4603,0.5397,0.0,0.0,0.0,0.0,Gemma-4-E2B
+"Ambiguous selection (01, 10, 13)",0.0,0.0,0.2653,0.0,0.7232,0.0116,Gemma-4-E2B
+"Selection, positive context",0.0,0.0,0.0,0.9848,0.0152,0.0,Gemma-4-E2B
+"Selection, negative context",0.0,0.0,0.0,0.9099,0.0901,0.0,Gemma-4-E2B

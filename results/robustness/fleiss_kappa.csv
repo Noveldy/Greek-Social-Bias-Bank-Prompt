@@ -1,0 +1,7 @@
+set,runs,model,n,same_answer_in_all,fleiss_kappa
+prompt variants,v2_chat name_swap_chat paraphrase_chat option_order_chat,qwen,4967,0.759613448761828,0.8296546339257022
+prompt variants,v2_chat name_swap_chat paraphrase_chat option_order_chat,krikri,4967,0.7358566539158445,0.8029627629883599
+prompt variants,v2_chat name_swap_chat paraphrase_chat option_order_chat,gemma,4967,0.7420978457821623,0.8169290954361492
+sampling seeds,sampling_seed1_chat sampling_seed2_chat sampling_seed3_chat,qwen,4967,0.9440306019730219,0.9542992243673826
+sampling seeds,sampling_seed1_chat sampling_seed2_chat sampling_seed3_chat,krikri,4967,0.88906784779545,0.9040581472905009
+sampling seeds,sampling_seed1_chat sampling_seed2_chat sampling_seed3_chat,gemma,4967,0.9555063418562513,0.9633957372814067

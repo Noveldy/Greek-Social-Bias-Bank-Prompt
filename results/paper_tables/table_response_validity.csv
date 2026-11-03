@@ -1,0 +1,19 @@
+﻿model,family,n,exact answer (%),read from a longer answer (%),"refusal, coded Unknown (%)",non-compliant (%)
+Qwen3-4B,"Ambiguous selection (01, 10, 13)",2574,99.9,0.0,0.0,0.08
+Qwen3-4B,"Decision (16, 17)",1716,100.0,0.0,0.0,0.0
+Qwen3-4B,"Eligibility (09, 11, 12)",2574,100.0,0.0,0.0,0.0
+Qwen3-4B,"Selection, negative context",2574,100.0,0.0,0.0,0.0
+Qwen3-4B,"Selection, positive context",8580,100.0,0.0,0.0,0.03
+Qwen3-4B,Stereotype (02-07),5148,100.0,0.0,0.0,0.0
+Krikri-8B,"Ambiguous selection (01, 10, 13)",2574,9.9,89.8,0.16,0.16
+Krikri-8B,"Decision (16, 17)",1716,62.8,37.2,0.0,0.0
+Krikri-8B,"Eligibility (09, 11, 12)",2574,84.8,15.2,0.0,0.0
+Krikri-8B,"Selection, negative context",2574,100.0,0.0,0.0,0.0
+Krikri-8B,"Selection, positive context",8580,97.8,2.2,0.0,0.01
+Krikri-8B,Stereotype (02-07),5148,35.6,64.4,0.0,0.0
+Gemma-4-E2B,"Ambiguous selection (01, 10, 13)",2574,99.1,0.0,0.0,0.85
+Gemma-4-E2B,"Decision (16, 17)",1716,100.0,0.0,0.0,0.0
+Gemma-4-E2B,"Eligibility (09, 11, 12)",2574,100.0,0.0,0.0,0.0
+Gemma-4-E2B,"Selection, negative context",2574,100.0,0.0,0.0,0.0
+Gemma-4-E2B,"Selection, positive context",8580,100.0,0.0,0.0,0.0
+Gemma-4-E2B,Stereotype (02-07),5148,100.0,0.0,0.0,0.0

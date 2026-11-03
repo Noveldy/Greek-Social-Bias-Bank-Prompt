@@ -1,0 +1,9 @@
+﻿metric,test,model,vs,n,rates %,"difference, points",adjusted p
+stereotype_endorsement,McNemar,Qwen3-4B,Krikri-8B,5118,1.7 vs 0.1,1.6,2.46e-17
+stereotype_endorsement,McNemar,Qwen3-4B,Gemma-4-E2B,5118,1.7 vs 1.8,-0.1,0.876
+stereotype_endorsement,McNemar,Krikri-8B,Gemma-4-E2B,5118,0.1 vs 1.8,-1.7,3.67e-18
+stereotype_endorsement,Cochran's Q,all,all,5118,,1.7,3.7e-18
+selection_accuracy,McNemar,Qwen3-4B,Krikri-8B,11150,95.7 vs 99.7,-4.1,3.97e-88
+selection_accuracy,McNemar,Qwen3-4B,Gemma-4-E2B,11151,95.7 vs 96.8,-1.1,4.59e-06
+selection_accuracy,McNemar,Krikri-8B,Gemma-4-E2B,11153,99.7 vs 96.8,3.0,7.71e-63
+selection_accuracy,Cochran's Q,all,all,11150,,4.1,9.49e-92

@@ -1,0 +1,27 @@
+condition,table,model,systematic_in_v2_chat,same_direction,kept,share_kept
+"prompt format (v1, raw)",decision,gemma,3,2,0,0.0
+"prompt format (v1, raw)",eligibility,gemma,13,13,12,0.9230769230769231
+"prompt format (v1, raw)",eligibility,krikri,3,3,3,1.0
+"prompt format (v1, raw)",eligibility,qwen,13,13,9,0.6923076923076923
+"prompt format (v1, raw)",false_selection,gemma,9,9,1,0.1111111111111111
+"prompt format (v1, raw)",false_selection,qwen,1,1,0,0.0
+"prompt format (v1, raw)",stereotype,gemma,2,0,0,0.0
+"prompt format (v1, raw)",stereotype,qwen,2,2,2,1.0
+name swap,eligibility,gemma,1,1,0,0.0
+name swap,eligibility,qwen,1,1,0,0.0
+name swap,false_selection,gemma,1,1,0,0.0
+paraphrase,eligibility,gemma,1,1,0,0.0
+paraphrase,eligibility,qwen,1,1,1,1.0
+paraphrase,false_selection,gemma,1,1,0,0.0
+option order,eligibility,gemma,1,1,0,0.0
+option order,eligibility,qwen,1,1,1,1.0
+option order,false_selection,gemma,1,1,0,0.0
+sampling seed 1,eligibility,gemma,1,1,1,1.0
+sampling seed 1,eligibility,qwen,1,1,1,1.0
+sampling seed 1,false_selection,gemma,1,1,1,1.0
+sampling seed 2,eligibility,gemma,1,1,0,0.0
+sampling seed 2,eligibility,qwen,1,1,1,1.0
+sampling seed 2,false_selection,gemma,1,1,1,1.0
+sampling seed 3,eligibility,gemma,1,1,0,0.0
+sampling seed 3,eligibility,qwen,1,1,1,1.0
+sampling seed 3,false_selection,gemma,1,1,0,0.0

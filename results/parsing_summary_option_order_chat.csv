@@ -1,0 +1,4 @@
+model,n,exact,none,extracted,phrase,refusal
+qwen,5346,5340,6.0,0.0,0.0,0.0
+krikri,5346,4665,6.0,439.0,233.0,3.0
+gemma,5346,5346,0.0,0.0,0.0,0.0

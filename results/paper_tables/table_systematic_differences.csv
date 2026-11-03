@@ -1,0 +1,45 @@
+﻿table,model,template,attribute,group,group rate % (k/n),other groups % (k/n),"difference, points [95% CI]",MH odds ratio [95% CI],test,adjusted p,GEE odds ratio,GEE p,"min. detectable difference, points"
+Stereotype endorsement,Qwen3-4B,,Ethnicity,Turkish,7.5 (17/228),0.7 (5/684),"6.7 [3.8, 10.9]","17.65 [5.87, 53.07]",MH,4.18e-08,20.92,0.000446,2.9
+Stereotype endorsement,Qwen3-4B,,Socioeconomic status,Homeless,12.1 (8/66),2.6 (7/270),"9.5 [3.1, 19.6]","6.34 [2.12, 18.93]",Fisher,0.0481,8.74,0.00356,9.4
+Eligibility: denied,Qwen3-4B,,Disability,Deaf,46.5 (67/144),20.4 (61/299),"26.1 [16.8, 35.3]","4.63 [2.77, 7.72]",MH,1.69e-08,4.59,0.000106,12.5
+Eligibility: denied,Qwen3-4B,,Disability,Deaf-Mute,42.7 (50/117),23.9 (78/326),"18.8 [8.9, 28.8]","2.94 [1.75, 4.95]",MH,0.000255,3.87,0.00578,13.9
+Eligibility: denied,Qwen3-4B,,Disability,Mute,2.7 (3/111),37.7 (125/332),"-34.9 [-40.6, -27.9]","0.03 [0.01, 0.11]",MH,6.79e-14,0.02,1.4e-07,15.2
+Eligibility: denied,Qwen3-4B,,Disability,Wheelchair User,2.2 (1/45),31.9 (127/398),"-29.7 [-34.8, -19.4]","0.03 [0.00, 0.24]",MH,1.87e-05,0.04,0.0024,21.6
+Eligibility: denied,Qwen3-4B,,Ethnicity,African,35.6 (16/45),8.5 (35/411),"27.0 [14.3, 41.8]","48.63 [6.56, 360.58]",MH,1.16e-08,38.11,6.56e-05,15.8
+Eligibility: denied,Qwen3-4B,,Ethnicity,Roma,21.7 (13/60),9.6 (38/396),"12.1 [2.9, 24.3]","4.27 [1.67, 10.96]",MH,0.00625,4.90,0.0115,14.2
+Eligibility: denied,Qwen3-4B,,Ethnicity,Syrian,2.5 (2/81),13.1 (49/375),"-10.6 [-14.8, -3.8]","0.13 [0.03, 0.56]",MH,0.00625,0.13,0.0496,13.5
+Eligibility: denied,Qwen3-4B,,Ethnicity,Turkish,0.0 (0/114),14.9 (51/342),"-14.9 [-19.1, -10.2]","0.07 [0.02, 0.34]",MH,3.3e-05,,,12.2
+Eligibility: denied,Qwen3-4B,,Religion,Catholic,21.2 (7/33),5.2 (7/135),"16.0 [4.3, 32.8]","7.80 [2.06, 29.56]",Fisher,0.0182,9.61,0.0141,17.9
+Eligibility: denied,Qwen3-4B,,Religion,Muslim,0.0 (0/51),12.0 (14/117),"-12.0 [-19.1, -3.5]","0.19 [0.04, 1.01]",Fisher,0.0156,,,18.8
+Eligibility: denied,Qwen3-4B,,Sexual orientation,Asexual,27.3 (9/33),7.1 (10/141),"20.2 [6.8, 37.4]","16.65 [3.09, 89.69]",Fisher,0.00784,17.66,7.39e-21,19.4
+Eligibility: denied,Qwen3-4B,,Socioeconomic status,Homeless,0.0 (0/33),31.1 (42/135),"-31.1 [-39.4, -18.4]","0.09 [0.02, 0.50]",MH,0.00273,,,26.7
+Eligibility: denied,Qwen3-4B,,Socioeconomic status,Unemployed,52.4 (22/42),15.9 (20/126),"36.5 [20.1, 51.7]","3.48 [1.81, 6.69]",MH,1.26e-05,6.74,5.24e-07,21.7
+Eligibility: denied,Krikri-8B,,Disability,Deaf,0.0 (0/144),10.0 (30/299),"-10.0 [-14.0, -6.1]","0.08 [0.02, 0.40]",MH,9.73e-05,,,10.0
+Eligibility: denied,Krikri-8B,,Disability,Deaf-Mute,0.9 (1/117),8.9 (29/326),"-8.0 [-11.7, -3.4]","0.06 [0.01, 0.49]",MH,0.000927,0.07,0.0123,10.3
+Eligibility: denied,Krikri-8B,,Disability,Mute,26.1 (29/111),0.3 (1/332),"25.8 [18.4, 34.7]","366.12 [43.97, 3048.61]",MH,0,365.85,1.89e-08,4.0
+Eligibility: denied,Gemma-4-E2B,,Age,Young Adult,0.0 (0/33),22.2 (6/27),"-22.2 [-40.8, -6.6]","0.13 [0.02, 0.77]",Fisher,0.0169,,,34.7
+Eligibility: denied,Gemma-4-E2B,,Disability,Deaf,80.6 (116/144),58.9 (176/299),"21.7 [12.7, 29.7]","3.07 [1.87, 5.04]",MH,6.28e-05,2.45,0.055,13.4
+Eligibility: denied,Gemma-4-E2B,,Disability,Deaf-Mute,82.9 (97/117),59.8 (195/326),"23.1 [13.7, 31.0]","3.23 [1.90, 5.51]",MH,6.28e-05,4.95,0.00852,14.1
+Eligibility: denied,Gemma-4-E2B,,Disability,Mute,41.4 (46/111),74.1 (246/332),"-32.7 [-42.4, -22.1]","0.20 [0.12, 0.33]",MH,3.67e-10,0.25,0.000857,12.1
+Eligibility: denied,Gemma-4-E2B,,Disability,Wheelchair User,46.7 (21/45),68.1 (271/398),"-21.4 [-35.8, -6.4]","0.32 [0.16, 0.65]",MH,0.0113,0.38,0.0234,18.2
+Eligibility: denied,Gemma-4-E2B,,Ethnicity,Roma,10.0 (6/60),24.0 (95/396),"-14.0 [-20.9, -3.1]","0.32 [0.13, 0.78]",MH,0.0153,0.18,0.163,18.1
+Eligibility: denied,Gemma-4-E2B,,Occupation,Waiter,16.7 (20/120),1.3 (12/891),"15.3 [9.6, 23.0]","19.70 [8.75, 44.36]",Fisher,1.86e-10,19.78,0.00421,4.9
+Eligibility: denied,Gemma-4-E2B,,Religion,Atheist,50.0 (21/42),18.3 (23/126),"31.7 [15.4, 47.3]","7.51 [2.88, 19.59]",MH,7.92e-05,8.79,0.00341,22.4
+Eligibility: denied,Gemma-4-E2B,,Religion,Catholic,3.0 (1/33),31.9 (43/135),"-28.8 [-37.5, -14.5]","0.04 [0.00, 0.38]",MH,0.00155,0.06,0.00923,26.7
+Eligibility: denied,Gemma-4-E2B,,Sexual orientation,Asexual,33.3 (11/33),16.3 (23/141),"17.0 [1.8, 34.9]","25.00 [1.95, 320.62]",MH,0.014,19.08,0.00761,23.9
+Eligibility: denied,Gemma-4-E2B,,Sexual orientation,Heterosexual,9.5 (4/42),22.7 (30/132),"-13.2 [-22.9, 0.8]","0.20 [0.05, 0.74]",MH,0.0311,0.23,0.245,23.2
+Eligibility: denied,Gemma-4-E2B,,Sexual orientation,Pansexual,6.1 (2/33),22.7 (32/141),"-16.6 [-25.4, -1.8]","0.11 [0.02, 0.58]",MH,0.0153,0.12,0.054,25.5
+Eligibility: denied,Gemma-4-E2B,,Socioeconomic status,Rich,4.8 (2/42),23.0 (29/126),"-18.3 [-27.0, -5.5]","0.11 [0.02, 0.54]",MH,0.014,0.16,0.0889,23.4
+Decision: unfavourable answer,Gemma-4-E2B,Promotion (16),Disability,Deaf-Mute,76.9 (30/39),49.2 (62/126),"27.7 [10.2, 41.2]","3.44 [1.51, 7.83]",MH,0.0187,3.37,0.0871,24.7
+Decision: unfavourable answer,Gemma-4-E2B,Promotion (16),Disability,Mute,8.1 (3/37),69.5 (89/128),"-61.4 [-70.5, -45.8]","0.04 [0.01, 0.13]",MH,2.34e-09,0.04,1.23e-05,20.4
+Decision: unfavourable answer,Gemma-4-E2B,Resignation (17),Disability,Deaf,47.9 (23/48),23.9 (28/117),"24.0 [8.1, 39.3]","2.92 [1.44, 5.94]",MH,0.0187,2.97,0.038,22.7
+False selection,Qwen3-4B,,Socioeconomic status,Homeless,7.1 (6/84),0.8 (2/252),"6.3 [2.0, 13.9]","9.02 [1.76, 46.30]",Fisher,0.0404,8.65,0.00935,6.1
+False selection,Gemma-4-E2B,,Age,Senior,0.0 (0/60),13.3 (8/60),"-13.3 [-24.2, -4.5]","0.13 [0.02, 0.76]",Fisher,0.0237,,,21.3
+False selection,Gemma-4-E2B,,Age,Young Adult,13.3 (8/60),0.0 (0/60),"13.3 [4.5, 24.2]","7.47 [1.32, 42.18]",Fisher,0.0237,,,6.4
+False selection,Gemma-4-E2B,,Disability,Mute,12.7 (28/220),2.3 (18/770),"10.4 [6.4, 15.5]","6.71 [3.52, 12.77]",MH,1.8e-09,5.38,3.16e-05,4.3
+False selection,Gemma-4-E2B,,Ethnicity,Turkish,9.1 (16/176),1.0 (7/736),"8.1 [4.6, 13.3]","11.29 [4.48, 28.45]",Fisher,2.47e-06,13.91,0.000271,3.6
+False selection,Gemma-4-E2B,,Occupation,Engineer,12.5 (24/192),5.0 (92/1830),"7.5 [3.4, 13.0]","3.57 [2.05, 6.23]",MH,2.99e-05,3.75,2.49e-05,5.6
+False selection,Gemma-4-E2B,,Occupation,Nurse,0.9 (2/222),6.3 (114/1800),"-5.4 [-6.8, -2.9]","0.13 [0.03, 0.54]",MH,0.00595,0.13,0.00848,5.7
+False selection,Gemma-4-E2B,,Occupation,Programmer,10.5 (31/294),4.9 (85/1728),"5.6 [2.4, 9.8]","2.63 [1.62, 4.26]",MH,0.000506,2.62,0.000523,4.5
+False selection,Gemma-4-E2B,,Religion,Atheist,14.3 (12/84),4.0 (10/252),"10.3 [3.6, 19.5]","4.54 [1.79, 11.51]",MH,0.00512,4.52,0.0108,9.6
+False selection,Gemma-4-E2B,,Religion,Catholic,1.2 (1/84),8.3 (21/252),"-7.1 [-11.3, -1.2]","0.11 [0.01, 0.87]",MH,0.0444,0.12,0.00782,12.1

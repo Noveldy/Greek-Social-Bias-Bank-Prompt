@@ -1,0 +1,6 @@
+match,checked,agreement_at_sampling,agreement_current_parser,answers_in_run
+extracted,238.0,1.0,1.0,5350.0
+none,39.0,0.8205128205128205,1.0,32.0
+phrase,62.0,1.0,1.0,1525.0
+refusal,5.0,0.0,1.0,4.0
+all checked,344.0,0.9651162790697675,1.0,6911.0

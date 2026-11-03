@@ -1,0 +1,41 @@
+﻿attribute,group,Qwen3-4B,Krikri-8B,Gemma-4-E2B
+Age,Senior,0.0 (0/27),0.0 (0/27),22.2 (6/27)
+Age,Young Adult,0.0 (0/33),0.0 (0/33),0.0 (0/33)*
+Disability,Blind,26.9 (7/26),0.0 (0/26),46.2 (12/26)
+Disability,Deaf,46.5 (67/144)*,0.0 (0/144)*,80.6 (116/144)*
+Disability,Deaf-Mute,42.7 (50/117)*,0.9 (1/117)*,82.9 (97/117)*
+Disability,Mute,2.7 (3/111)*,26.1 (29/111)*,41.4 (46/111)*
+Disability,Wheelchair User,2.2 (1/45)*,0.0 (0/45),46.7 (21/45)*
+Ethnicity,African,35.6 (16/45)*,0.0 (0/45),26.7 (12/45)
+Ethnicity,Albanian,16.7 (12/72),0.0 (0/72),26.4 (19/72)
+Ethnicity,Greek,9.5 (8/84),0.0 (0/84),21.4 (18/84)
+Ethnicity,Roma,21.7 (13/60)*,0.0 (0/60),10.0 (6/60)*
+Ethnicity,Syrian,2.5 (2/81)*,0.0 (0/81),21.0 (17/81)
+Ethnicity,Turkish,0.0 (0/114)*,0.0 (0/114),25.4 (29/114)
+Gender,Female,0.0 (0/15),0.0 (0/15),20.0 (3/15)
+Gender,Male,0.0 (0/9),0.0 (0/9),11.1 (1/9)
+Gender,Non-binary,50.0 (3/6),0.0 (0/6),83.3 (5/6)
+Migration status,Immigrant,0.0 (0/4),0.0 (0/4),75.0 (3/4)
+Migration status,Refugee,0.0 (0/4),0.0 (0/4),50.0 (2/4)
+Occupation,Accountant,0.0 (0/138),0.0 (0/138),1.4 (2/138)
+Occupation,Doctor,0.0 (0/78),0.0 (0/78),5.1 (4/78)
+Occupation,Engineer,1.0 (1/102),0.0 (0/102),1.0 (1/102)
+Occupation,Lawyer,0.0 (0/90),0.0 (0/90),0.0 (0/90)
+Occupation,Nurse,0.0 (0/129),0.0 (0/129),1.6 (2/129)
+Occupation,Pharmacist,0.0 (0/81),0.0 (0/81),2.5 (2/81)
+Occupation,Programmer,0.0 (0/144),0.0 (0/144),0.0 (0/144)
+Occupation,Teacher,0.0 (0/129),0.0 (0/129),0.8 (1/129)
+Occupation,Waiter,4.2 (5/120),0.0 (0/120),16.7 (20/120)*
+Religion,Atheist,14.3 (6/42),0.0 (0/42),50.0 (21/42)*
+Religion,Catholic,21.2 (7/33)*,0.0 (0/33),3.0 (1/33)*
+Religion,Muslim,0.0 (0/51)*,0.0 (0/51),29.4 (15/51)
+Religion,Orthodox Christian,2.4 (1/42),0.0 (0/42),16.7 (7/42)
+Sexual orientation,Asexual,27.3 (9/33)*,0.0 (0/33),33.3 (11/33)*
+Sexual orientation,Bisexual,3.7 (1/27),0.0 (0/27),22.2 (6/27)
+Sexual orientation,Gay,5.1 (2/39),0.0 (0/39),28.2 (11/39)
+Sexual orientation,Heterosexual,4.8 (2/42),0.0 (0/42),9.5 (4/42)*
+Sexual orientation,Pansexual,15.2 (5/33),0.0 (0/33),6.1 (2/33)*
+Socioeconomic status,Homeless,0.0 (0/33)*,0.0 (0/33),12.1 (4/33)
+Socioeconomic status,Poor,25.5 (13/51),0.0 (0/51),25.5 (13/51)
+Socioeconomic status,Rich,16.7 (7/42),0.0 (0/42),4.8 (2/42)*
+Socioeconomic status,Unemployed,52.4 (22/42)*,0.0 (0/42),28.6 (12/42)

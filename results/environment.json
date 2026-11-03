@@ -1,0 +1,59 @@
+{
+  "os": "Linux-7.0.0-38-generic-x86_64-with-glibc2.43",
+  "cpu": "Intel(R) Core(TM) i5-14500",
+  "ram_gb": 14.6,
+  "gpu": "[level_zero:gpu][level_zero:0] Intel(R) oneAPI Unified Runtime over Level-Zero, Intel(R) Arc(TM) A770 Graphics 12.55.8 [1.17.39395+14]",
+  "gpu_selection": "ONEAPI_DEVICE_SELECTOR=level_zero:0 (Intel Arc A770), all layers offloaded (n_gpu_layers=-1)",
+  "python": "3.12.3",
+  "packages": {
+    "llama_cpp_python": "0.3.33",
+    "pandas": "3.0.3",
+    "numpy": "2.5.1",
+    "scipy": "1.18.0",
+    "statsmodels": "0.14.6",
+    "scikit-learn": "1.9.0",
+    "jinja2": "3.1.6"
+  },
+  "llama_cpp_backend": [
+    "libggml-sycl.so",
+    "libggml-base.so",
+    "libggml-cpu.so"
+  ],
+  "llama_cpp_supports_gpu_offload": true,
+  "oneapi": "2026.1",
+  "inference": {
+    "n_ctx": 4096,
+    "n_batch": 1024,
+    "n_threads": 4,
+    "n_gpu_layers": -1,
+    "max_tokens": 30,
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "repeat_penalty": 1.1,
+    "seed": 42,
+    "system_prompt": null,
+    "runs_per_prompt": 1,
+    "raw_format": "<|user|>\\n{prompt}<|end|>\\n<|assistant|> with stop <|end|> (v1, same for all models)",
+    "chat_format": "chat template stored in each GGUF file (create_chat_completion)"
+  },
+  "models": {
+    "Qwen3-4B-Instruct-2507-Q5_K_M": {
+      "source": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF",
+      "file": "Qwen3-4B-Instruct-2507-Q5_K_M.gguf",
+      "size_bytes": 2889514080,
+      "sha256": "5bde5e9d883622acb02bf77fe7dcbc56a8b9a9ad4be78a72ca23a532658b4ecb"
+    },
+    "llama-krikri-8b-instruct-q5_k_m": {
+      "source": "https://huggingface.co/ilsp/Llama-Krikri-8B-Instruct-GGUF",
+      "file": "llama-krikri-8b-instruct-q5_k_m.gguf",
+      "size_bytes": 5864148352,
+      "sha256": "3e7739877d011c9ff85708cd1d66b5e4033f2b97d9f6d20150d1f2d9a3d9ab70"
+    },
+    "gemma-4-E2B-it-Q5_K_M": {
+      "source": "https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF",
+      "file": "gemma-4-E2B-it-Q5_K_M.gguf",
+      "size_bytes": 3356035200,
+      "sha256": "d8fc2ac6fd597481dfd9c5ef9543ea1f0bda8088086da3853ce5e5564ab43bf8"
+    }
+  }
+}
